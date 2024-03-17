@@ -1,0 +1,3 @@
+[submodule "vas"]
+	path = vas
+	url = git@github.com:VALASALARAKESH/vas.git
